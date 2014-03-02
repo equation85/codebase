@@ -1,0 +1,3 @@
+shinyUI(bootstrapPage(
+  jQCloudOutput('show')
+))
